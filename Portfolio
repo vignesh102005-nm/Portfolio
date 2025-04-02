@@ -95,8 +95,8 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./pic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Type Your Name</h1>
+            <img src="vi.jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>VIGNESH M</h1>
             <p>AM COMPUTER APPLICATION GRADUATE</p>
         </div>
     </header>
@@ -160,14 +160,14 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="./mycv.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="VIGNESH.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
     </section>
 
     <footer>
-        <p>&copy; 2025 TYPE TOUR NAME</p>
+        <p>&copy; 2025 VIGNESH M</p>
     </footer>
 
     <script>
